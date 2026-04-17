@@ -4,7 +4,7 @@ import html2canvas from 'html2canvas'
 import styles from './Converter.module.css'
 
 const SAMPLE = `<div style="font-family: Georgia, serif; padding: 24px; max-width: 600px; margin: 0 auto;">
-  <h1 style="color: #1a1a2e; font-size: 28px; margin-bottom: 8px;">Invoice #0042</h1>
+  <h1 style="color: #0000ff; font-size: 28px; margin-bottom: 8px;">Invoice #0042</h1>
   <p style="color: #888; font-size: 14px; margin-bottom: 32px;">April 17, 2026</p>
 
   <table style="width: 100%; border-collapse: collapse; margin-bottom: 24px;">
